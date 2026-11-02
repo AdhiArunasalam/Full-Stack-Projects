@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+}
+.r{
+    padding: 20px 20px 20px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 2px solid white;
+}
+.pa{
+    padding: 20px 20px 20px 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+}
+.s{
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 20px 20px 20px 20px;
+    background-color: black;
+    color: white;
+}
+.re{
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 20px 20px 20px 20px;
+    background-color: black;
+    color: white;
+}
